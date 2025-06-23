@@ -1,0 +1,13 @@
+{
+  "name": "Joy-telegram-bot",
+  "version": "1.0.0",
+  "description": "Modular Telegram bot like JOY-TELEGRAM-BOT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "up": "node up.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
